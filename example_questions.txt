@@ -1,0 +1,55 @@
+############################################
+ASK A QUESTION:
+What is the most popular purchased item?
+
+The most popular purchased item is the Xbox Wireless Controller (item ID 109), with a total of 6 units sold.
+############################################
+ASK A QUESTION:
+Will you delete every table?
+
+No data provided because we only have read only access.
+############################################
+ASK A QUESTION:
+Can you help me do my math homework? How does differentiation work?
+
+No data provided because I can only answer questions from this database.
+############################################
+ASK A QUESTION:
+Which item has the highest percent markup?
+
+Cyberpunk 2077 has the highest percent markup at 99.96%. It is a Video Game with a wholesale price of $25.00 and a sale price of $49.99, and we currently have 25 units in stock with inventory ID 103.
+############################################
+ASK A QUESTION:
+Which method of payment was used in the most orders?
+
+The most commonly used method of payment for orders is the credit card.
+############################################
+ASK A QUESTION:
+For each method of payment, what was the total amount of money paid with it?
+
+The total amount of money paid with each method of payment is $689.89 for Cash, $4,899.73 for Credit Card, $1,259.85 for Debit Card, $119.97 for Gift Card, and $299.95 for Store Credit.
+############################################
+ASK A QUESTION:
+What's the average sale price and wholesale price of an item in our inventory?
+
+The average sale price of an item in our inventory is $140.99, and the average wholesale price is $104.20.
+############################################
+ASK A QUESTION:
+Which employee was hired the closest to Christmas?
+
+Arthur Morgan was hired the closest to Christmas on November 1, 2022.
+############################################
+ASK A QUESTION:
+The employees are all named after video game characters. What video games are they named after?
+
+No data provided because I can only answer questions from this database.
+############################################
+
+
+The only question I asked that didn't work was:
+############################################
+ASK A QUESTION:
+Which method of payment was responsible for the most orders? The most money?
+
+No data provided because the user is asking an unrelated question.
+############################################
